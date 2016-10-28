@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorRecordGreen">#12A76B</color>
+    <color name="colorGrayTransparent">#1affffff</color>
+    <color name="color_33ffffff">#33ffffff</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+</resources>
